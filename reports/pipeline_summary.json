@@ -1,0 +1,30 @@
+{
+  "source": "Existing Parquet tables (the bundled dataset is synthetic).",
+  "matches": 3420,
+  "appointments": 37,
+  "eligible_appointments": 34,
+  "matched_appointments": 34,
+  "short_window": {
+    "raw_points_bounce": 0.47132352941176475,
+    "points_minus_xp": 0.13019520553557112,
+    "fixture_shift": 0.09366001792053782,
+    "comparison_form": 0.04189806770152099,
+    "appointment_gap": 0.20557023825413476,
+    "points_minus_xp_pct": 27.62331973921634,
+    "fixture_shift_pct": 19.87170427019211,
+    "comparison_form_pct": 8.889449621539555,
+    "appointment_gap_pct": 43.61552636905199
+  },
+  "medium_window": {
+    "raw_points_bounce": 0.3808823529411765,
+    "points_minus_xp": 0.11789253771349095,
+    "fixture_shift": 0.044359160688086985,
+    "comparison_form": 0.04600868903507396,
+    "appointment_gap": 0.17262196550452455,
+    "points_minus_xp_pct": 30.952480944082563,
+    "fixture_shift_pct": 11.646420566756426,
+    "comparison_form_pct": 12.079501368281965,
+    "appointment_gap_pct": 45.32159712087903
+  },
+  "tactical_change_later_gap_correlation": 0.5495334029079225
+}
